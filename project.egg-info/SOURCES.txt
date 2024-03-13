@@ -1,0 +1,13 @@
+setup.py
+condisline/__init__.py
+condisline/items.py
+condisline/middlewares.py
+condisline/pipelines.py
+condisline/settings.py
+condisline/spiders/__init__.py
+condisline/spiders/condisline_products.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
